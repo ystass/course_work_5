@@ -9,7 +9,7 @@ class HHParser:
     '''
     def job_employers(self):
         url = 'https://api.hh.ru/employers/'
-        params = {'per_page': 10, "sort_by": "by_vacancies_open", 'area': 4}
+        params = {'per_page': 30, "sort_by": "by_vacancies_open", 'area': 4}
         response = requests.get(url, params=params)
         employers = response.json()['items']
         return employers

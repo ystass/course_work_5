@@ -44,9 +44,10 @@ def data_entry(params):
                                 INSERT INTO employers VALUES (%s, %s, %s)
                             """, (employer["id"], employer["name"], employer["url"]))
             for vacancy in vacancies:
-                cur.execute("""INSERT INTO vacancies VALUES (%s, %s, %s, %s, %s)
+                cur.execute("""INSERT INTO vacancies VALUES (%s, %s, %s, %s, %s, %s)
                                     """, (vacancy["id"], vacancy["name"],
-                                        vacancy["salary"], vacancy["url"], vacancy["employer"]))
+                                        vacancy["salary"], vacancy["currency"], vacancy["url"],
+                                        vacancy["employer"]))
 
     conn.commit()
     conn.close()
