@@ -1,0 +1,738 @@
+[
+  {
+    'id': '98042695',
+    'name': 'Ведущий менеджер проектов клиентского сервиса',
+    'salary': 120000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/98042695',
+    'employer': '3530'
+  },
+  {
+    'id': '98065100',
+    'name': 'Бригадир (специалист отдела доставки)',
+    'salary': 65000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/98065100',
+    'employer': '3530'
+  },
+  {
+    'id': '94589165',
+    'name': 'Администратор пункта выдачи',
+    'salary': 40000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/94589165',
+    'employer': '3530'
+  },
+  {
+    'id': '97980958',
+    'name': 'Бухгалтер-кассир',
+    'salary': 50000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97980958',
+    'employer': '3530'
+  },
+  {
+    'id': '97570640',
+    'name': 'Ведущий менеджер по адаптации персонала',
+    'salary': 0,
+    'currency': 'Валюта не определена',
+    'url': 'https://hh.ru/vacancy/97570640',
+    'employer': '3530'
+  },
+  {
+    'id': '97307333',
+    'name': 'Менеджер по сопровождению клиентов',
+    'salary': 80000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97307333',
+    'employer': '3530'
+  },
+  {
+    'id': '95817575',
+    'name': 'Руководитель отдела продаж',
+    'salary': 300000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/95817575',
+    'employer': '3530'
+  },
+  {
+    'id': '96049124',
+    'name': 'Менеджер по партнерскому выкупу',
+    'salary': 60000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/96049124',
+    'employer': '3530'
+  },
+  {
+    'id': '94820364',
+    'name': 'Менеджер по работе с клиентами',
+    'salary': 60000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/94820364',
+    'employer': '3530'
+  },
+  {
+    'id': '97570639',
+    'name': 'Руководитель отдела бюджетного контроля',
+    'salary': 0,
+    'currency': 'Валюта не определена',
+    'url': 'https://hh.ru/vacancy/97570639',
+    'employer': '3530'
+  },
+  {
+    'id': '97861673',
+    'name': 'Кладовщик-комплектовщик/Работник склада (график 2/2/4)',
+    'salary': 120000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97861673',
+    'employer': '245592'
+  },
+  {
+    'id': '97572082',
+    'name': 'Водитель-экспедитор с личным легковым автомобилем',
+    'salary': 120000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97572082',
+    'employer': '245592'
+  },
+  {
+    'id': '96786264',
+    'name': 'Сборщик-комплектовщик',
+    'salary': 90000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/96786264',
+    'employer': '245592'
+  },
+  {
+    'id': '95847851',
+    'name': 'Старший смены склада',
+    'salary': 95000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/95847851',
+    'employer': '245592'
+  },
+  {
+    'id': '97680728',
+    'name': 'Оператор склада 1С',
+    'salary': 45000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97680728',
+    'employer': '245592'
+  },
+  {
+    'id': '97117605',
+    'name': 'Рекрутер/Менеджер по подбору персонала',
+    'salary': 70000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97117605',
+    'employer': '245592'
+  },
+  {
+    'id': '96531198',
+    'name': 'Руководитель отдела охраны труда и пожарной безопасности',
+    'salary': 110000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/96531198',
+    'employer': '245592'
+  },
+  {
+    'id': '96685461',
+    'name': 'Супервайзер торговых представителей',
+    'salary': 145000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/96685461',
+    'employer': '245592'
+  },
+  {
+    'id': '96608597',
+    'name': 'Сборщик-комплектовщик (ул. Курчатова)',
+    'salary': 60000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/96608597',
+    'employer': '245592'
+  },
+  {
+    'id': '95985738',
+    'name': 'Комплектовщик',
+    'salary': 60000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/95985738',
+    'employer': '245592'
+  },
+  {
+    'id': '96985817',
+    'name': 'Бухгалтер в управляющую компанию',
+    'salary': 60000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/96985817',
+    'employer': '1479944'
+  },
+  {
+    'id': '96797678',
+    'name': 'Менеджер call-центра (Удаленно)',
+    'salary': 40000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/96797678',
+    'employer': '1479944'
+  },
+  {
+    'id': '97321824',
+    'name': 'Региональный технолог',
+    'salary': 100000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97321824',
+    'employer': '1479944'
+  },
+  {
+    'id': '95950652',
+    'name': 'Мастер цеха',
+    'salary': 125000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/95950652',
+    'employer': '1479944'
+  },
+  {
+    'id': '97187298',
+    'name': 'Менеджер по сопровождению СТО',
+    'salary': 90000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97187298',
+    'employer': '1479944'
+  },
+  {
+    'id': '95120874',
+    'name': 'Автомаляр',
+    'salary': 90000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/95120874',
+    'employer': '1479944'
+  },
+  {
+    'id': '97962346',
+    'name': 'Менеджер по работе с ключевыми партнерами',
+    'salary': 120000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97962346',
+    'employer': '1479944'
+  },
+  {
+    'id': '94951200',
+    'name': 'Мастер-приемщик / Менеджер по продажам СТО (левый берег)',
+    'salary': 90000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/94951200',
+    'employer': '1479944'
+  },
+  {
+    'id': '94950413',
+    'name': 'Мастер-приемщик / Менеджер по продажам СТО (правый берег)',
+    'salary': 90000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/94950413',
+    'employer': '1479944'
+  },
+  {
+    'id': '96814601',
+    'name': 'Автоэлектрик-диагност (Академ)',
+    'salary': 80000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/96814601',
+    'employer': '1479944'
+  },
+  {
+    'id': '97989807',
+    'name': 'Начинающий специалист (присоединяйся к команде 2ГИС)',
+    'salary': 59000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97989807',
+    'employer': '64174'
+  },
+  {
+    'id': '97997207',
+    'name': 'SMM-менеджер (middle)',
+    'salary': 0,
+    'currency': 'Валюта не определена',
+    'url': 'https://hh.ru/vacancy/97997207',
+    'employer': '64174'
+  },
+  {
+    'id': '86041578',
+    'name': 'Менеджер по работе с отелями сервис Otello',
+    'salary': 65000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/86041578',
+    'employer': '64174'
+  },
+  {
+    'id': '97454005',
+    'name': 'Специалист по подбору персонала',
+    'salary': 55000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97454005',
+    'employer': '64174'
+  },
+  {
+    'id': '97775569',
+    'name': 'Менеджер по продажам технологичных продуктов (B2B)',
+    'salary': 200000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97775569',
+    'employer': '64174'
+  },
+  {
+    'id': '95947129',
+    'name': 'Специалист по контролю качества',
+    'salary': 0,
+    'currency': 'Валюта не определена',
+    'url': 'https://hh.ru/vacancy/95947129',
+    'employer': '64174'
+  },
+  {
+    'id': '95986943',
+    'name': 'Специалист по обучению',
+    'salary': 0,
+    'currency': 'Валюта не определена',
+    'url': 'https://hh.ru/vacancy/95986943',
+    'employer': '64174'
+  },
+  {
+    'id': '93932998',
+    'name': 'Рекрутер (HR)',
+    'salary': 0,
+    'currency': 'Валюта не определена',
+    'url': 'https://hh.ru/vacancy/93932998',
+    'employer': '64174'
+  },
+  {
+    'id': '93529958',
+    'name': 'HR бизнес-партнер (IT)',
+    'salary': 0,
+    'currency': 'Валюта не определена',
+    'url': 'https://hh.ru/vacancy/93529958',
+    'employer': '64174'
+  },
+  {
+    'id': '96809850',
+    'name': 'Помощник по документообороту',
+    'salary': 0,
+    'currency': 'Валюта не определена',
+    'url': 'https://hh.ru/vacancy/96809850',
+    'employer': '64174'
+  },
+  {
+    'id': '97695206',
+    'name': 'HR директор',
+    'salary': 300000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97695206',
+    'employer': '1317294'
+  },
+  {
+    'id': '94476608',
+    'name': 'Аналитик',
+    'salary': 75000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/94476608',
+    'employer': '1317294'
+  },
+  {
+    'id': '94914097',
+    'name': 'Специалист по кадрам',
+    'salary': 71500,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/94914097',
+    'employer': '1317294'
+  },
+  {
+    'id': '96431555',
+    'name': 'Руководитель проектов e-commerce',
+    'salary': 0,
+    'currency': 'Валюта не определена',
+    'url': 'https://hh.ru/vacancy/96431555',
+    'employer': '1317294'
+  },
+  {
+    'id': '93904113',
+    'name': 'Бухгалтер по расчёту заработной платы',
+    'salary': 70000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/93904113',
+    'employer': '1317294'
+  },
+  {
+    'id': '96370642',
+    'name': 'Менеджер по персоналу',
+    'salary': 75000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/96370642',
+    'employer': '1317294'
+  },
+  {
+    'id': '96158807',
+    'name': 'Менеджер по МДЛП',
+    'salary': 0,
+    'currency': 'Валюта не определена',
+    'url': 'https://hh.ru/vacancy/96158807',
+    'employer': '1317294'
+  },
+  {
+    'id': '97806181',
+    'name': 'Заведующий аптекой (Левый берег)',
+    'salary': 95000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97806181',
+    'employer': '1317294'
+  },
+  {
+    'id': '87700332',
+    'name': 'Специалист АХО',
+    'salary': 68000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/87700332',
+    'employer': '1317294'
+  },
+  {
+    'id': '96484078',
+    'name': 'Менеджер по работе с партнерами',
+    'salary': 0,
+    'currency': 'Валюта не определена',
+    'url': 'https://hh.ru/vacancy/96484078',
+    'employer': '1317294'
+  },
+  {
+    'id': '97224889',
+    'name': 'Менеджер по продажам юридическим лицам',
+    'salary': 120000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97224889',
+    'employer': '10660107'
+  },
+  {
+    'id': '97074584',
+    'name': 'Курьер по доставке косметики/товаров',
+    'salary': 156900,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97074584',
+    'employer': '10660107'
+  },
+  {
+    'id': '97538252',
+    'name': 'Водитель по доставке косметики/товаров на Личном Автомобиле',
+    'salary': 128800,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97538252',
+    'employer': '10660107'
+  },
+  {
+    'id': '96685432',
+    'name': 'Водитель на автомобиль компании GAZEL NEXT',
+    'salary': 95000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/96685432',
+    'employer': '10660107'
+  },
+  {
+    'id': '96535861',
+    'name': 'Водитель-курьер (подработка, доставка небольших посылок)',
+    'salary': 234000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/96535861',
+    'employer': '10660107'
+  },
+  {
+    'id': '97960663',
+    'name': 'Менеджер-дизайнер корпусной мебели',
+    'salary': 140000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97960663',
+    'employer': '10660107'
+  },
+  {
+    'id': '98038985',
+    'name': 'Менеджер по подбору',
+    'salary': 50000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/98038985',
+    'employer': '5123066'
+  },
+  {
+    'id': '87722306',
+    'name': 'HR менеджер',
+    'salary': 100000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/87722306',
+    'employer': '5123066'
+  },
+  {
+    'id': '96604585',
+    'name': 'Риэлтор по аренде недвижимости',
+    'salary': 100000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/96604585',
+    'employer': '5123066'
+  },
+  {
+    'id': '97994349',
+    'name': 'Начинающий специалист по недвижимости (ученик)',
+    'salary': 120000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97994349',
+    'employer': '5123066'
+  },
+  {
+    'id': '95215194',
+    'name': 'Менеджер по подбору и адаптации персонала',
+    'salary': 70000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/95215194',
+    'employer': '5123066'
+  },
+  {
+    'id': '84397004',
+    'name': 'Специалист по недвижимости',
+    'salary': 100000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/84397004',
+    'employer': '5123066'
+  },
+  {
+    'id': '93346413',
+    'name': 'Начинающий риелтор (Академгородок)',
+    'salary': 120000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/93346413',
+    'employer': '5123066'
+  },
+  {
+    'id': '94668997',
+    'name': 'Уборщица/Уборщик/Специалист по уборке',
+    'salary': 35000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/94668997',
+    'employer': '5123066'
+  },
+  {
+    'id': '84396928',
+    'name': 'Начинающий специалист',
+    'salary': 60000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/84396928',
+    'employer': '5123066'
+  },
+  {
+    'id': '77456719',
+    'name': 'HR - менеджер',
+    'salary': 70000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/77456719',
+    'employer': '5123066'
+  },
+  {
+    'id': '97671529',
+    'name': 'Водитель автобуса',
+    'salary': 80000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97671529',
+    'employer': '844599'
+  },
+  {
+    'id': '95757796',
+    'name': 'Бухгалтер-финансист',
+    'salary': 60000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/95757796',
+    'employer': '844599'
+  },
+  {
+    'id': '90970576',
+    'name': 'Персональный водитель руководителя',
+    'salary': 50000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/90970576',
+    'employer': '844599'
+  },
+  {
+    'id': '96772293',
+    'name': 'Продавец-кассир 5/2 (ул. 9-й Гвардейской Дивизии, 26)',
+    'salary': 41000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/96772293',
+    'employer': '844599'
+  },
+  {
+    'id': '94666182',
+    'name': 'Ведущий специалист по персоналу',
+    'salary': 65000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/94666182',
+    'employer': '844599'
+  },
+  {
+    'id': '96396631',
+    'name': 'Менеджер отдела сбыта (продажа рубленых и тестовых полуфабрикатов)',
+    'salary': 60000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/96396631',
+    'employer': '844599'
+  },
+  {
+    'id': '96772297',
+    'name': 'Продавец-кассир 5/2 (ул. Федосеева, 24)',
+    'salary': 41000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/96772297',
+    'employer': '844599'
+  },
+  {
+    'id': '97573641',
+    'name': 'Водитель-экспедитор (Газель)',
+    'salary': 50000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97573641',
+    'employer': '844599'
+  },
+  {
+    'id': '97573669',
+    'name': 'Продавец-кассир 5/2 (пр. Дзержинского, 61)',
+    'salary': 41000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97573669',
+    'employer': '844599'
+  },
+  {
+    'id': '96774581',
+    'name': 'Менеджер отдела сбыта (продажа колбасных изделий)',
+    'salary': 0,
+    'currency': 'Валюта не определена',
+    'url': 'https://hh.ru/vacancy/96774581',
+    'employer': '844599'
+  },
+  {
+    'id': '95894406',
+    'name': 'Авитолог',
+    'salary': 50000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/95894406',
+    'employer': '3465042'
+  },
+  {
+    'id': '97603934',
+    'name': 'Специалист контактного центра (на дому)',
+    'salary': 50000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97603934',
+    'employer': '3465042'
+  },
+  {
+    'id': '96100134',
+    'name': 'Менеджер-оператор на телефон',
+    'salary': 45000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/96100134',
+    'employer': '3465042'
+  },
+  {
+    'id': '96256264',
+    'name': 'Курьер пеший в Яндекс.Еда',
+    'salary': 80000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/96256264',
+    'employer': '3465042'
+  },
+  {
+    'id': '96256288',
+    'name': 'Курьер на велосипеде в Яндекс.Еда',
+    'salary': 90000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/96256288',
+    'employer': '3465042'
+  },
+  {
+    'id': '95980997',
+    'name': 'Курьер на велосипеде (работа/ подработка)',
+    'salary': 90000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/95980997',
+    'employer': '3465042'
+  },
+  {
+    'id': '95429440',
+    'name': 'Специалист по продажам (В2В сегмент)',
+    'salary': 100000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/95429440',
+    'employer': '48735'
+  },
+  {
+    'id': '98056699',
+    'name': 'Контент-менеджер / SMM-менеджер',
+    'salary': 0,
+    'currency': 'Валюта не определена',
+    'url': 'https://hh.ru/vacancy/98056699',
+    'employer': '48735'
+  },
+  {
+    'id': '97802020',
+    'name': 'Ведущий специалист в планово-экономический отдел',
+    'salary': 0,
+    'currency': 'Валюта не определена',
+    'url': 'https://hh.ru/vacancy/97802020',
+    'employer': '48735'
+  },
+  {
+    'id': '97797624',
+    'name': 'Специалист по сопровождению операторов связи',
+    'salary': 60000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97797624',
+    'employer': '48735'
+  },
+  {
+    'id': '96969081',
+    'name': 'Главный специалист казначейства',
+    'salary': 80000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/96969081',
+    'employer': '48735'
+  },
+  {
+    'id': '98040570',
+    'name': 'Ведущий тренер-разработчик',
+    'salary': 0,
+    'currency': 'Валюта не определена',
+    'url': 'https://hh.ru/vacancy/98040570',
+    'employer': '48735'
+  },
+  {
+    'id': '97704778',
+    'name': 'Специалист по работе с действующими абонентами',
+    'salary': 41000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/97704778',
+    'employer': '48735'
+  },
+  {
+    'id': '94317389',
+    'name': 'Менеджер проектов (обучение и адаптация персонала)',
+    'salary': 0,
+    'currency': 'Валюта не определена',
+    'url': 'https://hh.ru/vacancy/94317389',
+    'employer': '48735'
+  },
+  {
+    'id': '96622913',
+    'name': 'Менеджер по продажам (B2O)',
+    'salary': 110000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/96622913',
+    'employer': '48735'
+  },
+  {
+    'id': '95848325',
+    'name': 'Менеджер проекта автоматизации управленческого учета',
+    'salary': 100000,
+    'currency': 'RUR',
+    'url': 'https://hh.ru/vacancy/95848325',
+    'employer': '48735'
+  }
+]

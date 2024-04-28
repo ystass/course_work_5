@@ -5,20 +5,20 @@ def creating_tables(params):
     with conn.cursor() as cur:
         cur.execute("""
                     CREATE TABLE employers (
-                        id SERIAL PRIMARY KEY,
-                        name VARCHAR(50) NOT NULL,
+                        id int PRIMARY KEY,
+                        name VARCHAR(100) NOT NULL,
                         url VARCHAR(50)
                     )
                 """)
 
         cur.execute("""
                     CREATE TABLE vacancies (
-                        id SERIAL PRIMARY KEY,
-                        name VARCHAR(50) NOT NULL,
+                        id int PRIMARY KEY,
+                        name VARCHAR(100) NOT NULL,
                         salary int,
                         currency VARCHAR(30),
                         url VARCHAR(50),
-                        employer_id int REFERENCES employers(id) NOT NULL
+                        employer_id int  
                     )
                 """)
 
