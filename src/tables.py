@@ -3,6 +3,9 @@ from connect import HHParser
 def creating_tables(params):
     conn = psycopg2.connect(dbname='courswork5', **params)
     with conn.cursor() as cur:
+        '''
+        Создаем таблицы employers и vacancies
+        '''
         cur.execute("""
                     CREATE TABLE employers (
                         id int PRIMARY KEY,
@@ -34,6 +37,9 @@ def data_entry(params):
     with conn:
         with conn.cursor() as cur:
             for employer in employers:
+                ''' 
+                Заполняем созданные таблицы
+                '''
                 cur.execute("""
                                 INSERT INTO employers VALUES (%s, %s, %s)
                             """, (employer["id"], employer["name"], employer["url"]))
