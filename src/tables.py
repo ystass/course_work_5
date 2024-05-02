@@ -8,7 +8,7 @@ def creating_tables(params):
         '''
         cur.execute("""
                     CREATE TABLE employers (
-                        id int PRIMARY KEY,
+                        id SERIAL PRIMARY KEY,
                         name VARCHAR(100) NOT NULL,
                         url VARCHAR(50)
                     )
@@ -16,12 +16,12 @@ def creating_tables(params):
 
         cur.execute("""
                     CREATE TABLE vacancies (
-                        id int PRIMARY KEY,
+                        id SERIAL PRIMARY KEY,
                         name VARCHAR(100) NOT NULL,
-                        salary int,
+                        salary INTEGER,
                         currency VARCHAR(30),
                         url VARCHAR(50),
-                        employer_id int  
+                        employer_id INTEGER REFERENCES employers(id) 
                     )
                 """)
 
