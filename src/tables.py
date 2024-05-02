@@ -29,8 +29,8 @@ def creating_tables(params):
     conn.close()
 
 
-def data_entry(params):
-    hh = HHParser()
+def data_entry(params, list_id):
+    hh = HHParser(list_id)
     employers = hh.get_employers_list()
     vacancies = hh.filter_salary()
     conn = psycopg2.connect(dbname='courswork5', **params)
