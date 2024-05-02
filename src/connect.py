@@ -11,13 +11,16 @@ class HHParser():
         self.list_id = list_id
 
 
-    def job_employers(self):
-        for id in self.list_id:
-            url = f'https://api.hh.ru/employers'
-            params = {'per_page': 10, "sort_by": "by_vacancies_open", 'area': 4}
-            response = requests.get(url, params=params)
-            employers = response.json()['items']
-        return employers
+    def job_employers(self, id):
+        url = f'https://api.hh.ru/employers/{id}/'
+        params = {'per_page': 10, "sort_by": "by_vacancies_open", 'area': 4}
+        response = requests.get(url, params=params)
+        employer = response.json()
+        return {
+            'id': employer['id'],
+            'name': employer['name'],
+            'url': employer['alternate_url']
+        }
 
 
     def job_vacancies(self, id):
@@ -35,16 +38,9 @@ class HHParser():
         Получаем данные о компаниях
         '''
         employers_list = []
-        emp = self.job_employers()
 
         for id in self.list_id:
-            #print(id)
-            for employer in emp:
-                #print(employer["id"])
-                if employer["id"] == id:
-                    #print('1')
-                    employers_list.append({"id": employer["id"], "name": employer["name"], "url":employer["url"]})
-        #print(employers_list)
+            employers_list.append(self.job_employers(id))
         return employers_list
 
     def get_vacancies_list(self):
