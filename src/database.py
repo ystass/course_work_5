@@ -1,5 +1,5 @@
 import psycopg2
-#from config import config
+
 
 def create_database(params):
     '''
@@ -14,11 +14,8 @@ def create_database(params):
 # )
     conn.autocommit = True
     cur = conn.cursor()
-    cur.execute("DROP DATABASE IF EXISTS courswork5")
-    cur.execute("CREATE DATABASE courswork5")
+    cur.execute("""DROP DATABASE IF EXISTS courswork5""")
+    cur.execute("""CREATE DATABASE courswork5""")
 
     cur.close()
     conn.close()
-
-
-#create_database()
