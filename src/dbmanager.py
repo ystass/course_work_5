@@ -41,7 +41,7 @@ class DBManager:
         with conn:
             with conn.cursor() as cur:
                 cur.execute('''SELECT ROUND(AVG(salary)) AS salary_avg FROM vacancies''')
-                avg_salary = cur.fetchall()
+                avg_salary = cur.fetchone()[0]
                 return avg_salary
         conn.close()
 
